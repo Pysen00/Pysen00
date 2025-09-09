@@ -1,12 +1,13 @@
-# Pysen
+<p align="center">
+  <img src="./assets/avatar.svg" width="96" alt="Pysen avatar" />
+</p>
 
-Built from scratch. Built for growth.
+<h1 align="center">Pysen</h1>
+<p align="center"><em>Built from scratch. Built for growth.</em></p>
 
-Less talk, more shipping.
-
-- Build clean, fast UIs.
-- Stack: Svelte, TypeScript, Tailwind.
-- Working with: [YntraAB](https://github.com/YntraAB) and [Rootbay](https://github.com/Rootbay).
+- Build: Svelte · TypeScript · Tailwind
+- Work: [YntraAB](https://github.com/YntraAB) · [Rootbay](https://github.com/Rootbay)
+- Motto: Shipping > talking. 🚀
 
 Pinned repos speak for themselves.
 
