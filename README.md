@@ -1,37 +1,43 @@
 <p align="center">
-  <img src="./assets/avatar.svg" width="120" alt="Avatar placeholder for Pysen00" />
+  <img src="./assets/banner.svg" width="100%" alt="Pysen00 — Built from scratch. Built for growth." />
 </p>
 
-<h1 align="center">Hi, I'm Pysen 👋</h1>
+<p align="center">
+  <img src="./assets/avatar.svg" width="110" alt="Avatar placeholder for Pysen00" />
+</p>
+
+<h1 align="center">Hey, I'm Pysen 👋</h1>
 <p align="center"><em>Built from scratch. Built for growth.</em></p>
 
-## About
-- Focus: Frontend-first products using Svelte + TypeScript.
-- Philosophy: Ship minimal, iterate fast, measure impact.
-- Currently: Building and contributing across the organizations below.
-- Enjoys: Streamlined UX, tiny tools, and performance-minded design.
+## TL;DR
+- Ships crisp, fast UIs with Svelte, TypeScript, and Tailwind.
+- Believes in small lovable releases, measured iterations, and solid DX.
+- Building across: <a href="https://github.com/YntraAB">YntraAB</a> and <a href="https://github.com/Rootbay">Rootbay</a>.
 
-## Tech Stack
+## Signature Stack
 <p>
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-## Organizations
-<p>
-  <a href="https://github.com/YntraAB" title="YntraAB">
-    <img src="https://img.shields.io/badge/Org-YntraAB-181717?logo=github&logoColor=white" alt="YntraAB" />
-  </a>
-  <a href="https://github.com/Rootbay" title="Rootbay">
-    <img src="https://img.shields.io/badge/Org-Rootbay-181717?logo=github&logoColor=white" alt="Rootbay" />
-  </a>
-</p>
+## Build Principles
+- Minimum lovable release > perfect later; keep momentum high.
+- Performance by default: tiny bundles, fast starts, smooth transitions.
+- Typed everywhere for confidence; automate the boring parts.
+- Accessibility and details that make UIs feel “snappy-right”.
+
+## Now Building
+- <strong><a href="https://github.com/YntraAB">YntraAB</a></strong>: product experiments and internal tools from zero to usable.
+- <strong><a href="https://github.com/Rootbay">Rootbay</a></strong>: open-source utilities, componentry, and workflow polish.
+
+## Highlights
+- Shipped multiple Svelte/TypeScript projects from idea to first users.
+- Designed lean UI systems with Tailwind that scale without bloat.
+- Prefer simple tooling, clean code paths, and measurable wins.
 
 ## Selected Projects
-- Add a few flagship repositories here with one‑line value statements.
-- Example: `project-name` — lightweight Svelte app scaffolding with TS + Tailwind.
-- Example: `tool-name` — small CLIs or utilities that speed up your workflow.
+- Add a couple of flagship repos here (one-liners that explain value and outcome). Want help writing them? Ping me on Discord.
 
 ## Stats
 <p>
@@ -44,5 +50,4 @@
 
 ---
 
-<!-- Avatar note: Replace assets/avatar.svg with your own image file (e.g., avatar.png) and update the <img> src if you change the path/name. -->
-
+<!-- Avatar: replace assets/avatar.svg with your own image (e.g., assets/avatar.png) and update the path above if needed. -->
