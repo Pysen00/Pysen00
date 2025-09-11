@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/avatar.svg" width="96" alt="Pysen avatar" />
+  <img src="./assets/avatar.png" width="96" alt="Pysen avatar" />
 </p>
 
 <h1 align="center">Pysen</h1>
