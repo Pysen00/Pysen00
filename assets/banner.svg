@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="840" height="260" viewBox="0 0 840 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Window background -->
   <rect width="840" height="260" rx="10" fill="#0d1117"/>
@@ -14,27 +13,27 @@
   <circle cx="56" cy="18" r="5.5" fill="#28c840"/>
 
   <!-- Tab title -->
-  <text x="420" y="24" text-anchor="middle" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="12" fill="#8b949e">pysen &#8212; cargo</text>
+  <text x="420" y="24" text-anchor="middle" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="12" fill="#8b949e">pysen — cargo</text>
 
-  <!-- $ cargo run --release -->
-  <text x="24" y="68" xml:space="preserve" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="14"><tspan fill="#6e7681">$ </tspan><tspan fill="#c9d1d9">cargo run </tspan><tspan fill="#F74C00">--release</tspan></text>
+  <!-- Prompt -->
+  <text x="24" y="68" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="14"><tspan fill="#6e7681">$&#160;</tspan><tspan fill="#c9d1d9">cargo&#160;run&#160;</tspan><tspan fill="#F74C00">--release</tspan></text>
 
-  <!--    Compiling pysen v0.1.0 (/usr/src/pysen) -->
-  <text x="24" y="98" xml:space="preserve" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="13"><tspan fill="#3fb950" font-weight="bold">   Compiling </tspan><tspan fill="#c9d1d9">pysen v0.1.0</tspan><tspan fill="#484f58"> (/usr/src/pysen)</tspan></text>
+  <!-- Compiling -->
+  <text x="24" y="98" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="13"><tspan fill="#3fb950" font-weight="bold">&#160;&#160;&#160;Compiling&#160;</tspan><tspan fill="#c9d1d9">pysen&#160;v0.1.0</tspan><tspan fill="#484f58">&#160;(/usr/src/pysen)</tspan></text>
 
-  <!--     Finished `release` profile [optimized] -->
-  <text x="24" y="120" xml:space="preserve" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="13"><tspan fill="#3fb950" font-weight="bold">    Finished </tspan><tspan fill="#c9d1d9">`release` profile [optimized]</tspan></text>
+  <!-- Finished -->
+  <text x="24" y="120" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="13"><tspan fill="#3fb950" font-weight="bold">&#160;&#160;&#160;&#160;Finished&#160;</tspan><tspan fill="#c9d1d9">`release`&#160;profile&#160;[optimized]</tspan></text>
 
-  <!--      Running `target/release/pysen` -->
-  <text x="24" y="142" xml:space="preserve" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="13"><tspan fill="#3fb950" font-weight="bold">     Running </tspan><tspan fill="#484f58">`target/release/pysen`</tspan></text>
+  <!-- Running -->
+  <text x="24" y="142" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="13"><tspan fill="#3fb950" font-weight="bold">&#160;&#160;&#160;&#160;&#160;Running&#160;</tspan><tspan fill="#484f58">`target/release/pysen`</tspan></text>
 
-  <!-- Program output: loaded tools -->
-  <text x="24" y="178" xml:space="preserve" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="13"><tspan fill="#F74C00">&#x2192; </tspan><tspan fill="#6e7681">loaded: </tspan><tspan fill="#F74C00">rust</tspan><tspan fill="#30363d"> &#183; </tspan><tspan fill="#FF3E00">svelte</tspan><tspan fill="#30363d"> &#183; </tspan><tspan fill="#3178C6">typescript</tspan><tspan fill="#30363d"> &#183; </tspan><tspan fill="#06B6D4">tailwind</tspan></text>
+  <!-- Output -->
+  <text x="24" y="178" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="13"><tspan fill="#F74C00">→&#160;</tspan><tspan fill="#6e7681">loaded:&#160;</tspan><tspan fill="#F74C00">rust</tspan><tspan fill="#30363d">&#160;·&#160;</tspan><tspan fill="#FF3E00">svelte</tspan><tspan fill="#30363d">&#160;·&#160;</tspan><tspan fill="#3178C6">typescript</tspan><tspan fill="#30363d">&#160;·&#160;</tspan><tspan fill="#06B6D4">tailwind</tspan></text>
 
-  <!-- Program output: status -->
-  <text x="24" y="202" xml:space="preserve" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="13"><tspan fill="#F74C00">&#x2192; </tspan><tspan fill="#6e7681">status: </tspan><tspan fill="#c9d1d9">shipping</tspan></text>
+  <!-- Status -->
+  <text x="24" y="202" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="13"><tspan fill="#F74C00">→&#160;</tspan><tspan fill="#6e7681">status:&#160;</tspan><tspan fill="#c9d1d9">shipping</tspan></text>
 
-  <!-- Blinking cursor -->
+  <!-- Cursor -->
   <rect x="24" y="218" width="8" height="15" fill="#F74C00" opacity="0.8">
     <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
   </rect>
