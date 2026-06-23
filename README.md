@@ -1,15 +1,18 @@
-<p align="center">
-  <img src="./assets/avatar.png" width="96" alt="Pysen avatar" />
-</p>
+<img src="./assets/banner.svg" width="100%" />
 
-<h1 align="center">Pysen</h1>
-<p align="center"><em>Built from scratch. Built for growth.</em></p>
+```toml
+[package]
+name = "pysen"
 
-- Build: Svelte · TypeScript · Tailwind
-- Work: [YntraAB](https://github.com/YntraAB) · [Rootbay](https://github.com/Rootbay)
-- Motto: Shipping > talking. 🚀
+[dependencies]
+rust       = { primary = true }
+svelte     = "latest"
+typescript = "strict"
+tailwind   = "latest"
 
-Pinned repos speak for themselves.
+[workspace]
+members = ["YntraAB", "Rootbay"]
+```
 
-Contact
-- Discord: realpysen
+`[workspace]` — [YntraAB](https://github.com/YntraAB) · [Rootbay](https://github.com/Rootbay)  
+`[contact]` — discord: `realpysen`
